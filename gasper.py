@@ -1,1 +1,1 @@
-print(gasper)
+print("gasper je legenda")
